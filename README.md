@@ -1,2 +1,2 @@
 # django_portfolio
-Shrawan's Portfolio
+Порфолио фронтенд-разработчика и UX/UI-дизайнера
