@@ -1,0 +1,17 @@
+body {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight: 400;
+  color: #f8f8f8; /* Update text color to a light color */
+  background-color: #0d1e2d; /* Update background color to a dark color */
+}
+
+a {
+  color: #bbb; /* Update link color to a lighter shade */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f8f8f8; /* Update link hover color to a light color */
+}
+
+/* Rest of your CSS code... */
